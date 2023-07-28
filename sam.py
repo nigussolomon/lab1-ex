@@ -1,2 +1,2 @@
-print("nigus solomon")
+print("tnsae and meklit were here")
 
