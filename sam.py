@@ -1,2 +1,2 @@
-print("nigus solomon")
+print("argaw")
 
